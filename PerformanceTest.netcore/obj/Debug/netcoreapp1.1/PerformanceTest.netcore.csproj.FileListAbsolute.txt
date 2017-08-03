@@ -1,0 +1,16 @@
+/home/albaizzz/project/dotnet/PerformanceTest.netcore/bin/Debug/netcoreapp1.1/PerformanceTest.netcore.deps.json
+/home/albaizzz/project/dotnet/PerformanceTest.netcore/bin/Debug/netcoreapp1.1/PerformanceTest.netcore.runtimeconfig.json
+/home/albaizzz/project/dotnet/PerformanceTest.netcore/bin/Debug/netcoreapp1.1/PerformanceTest.netcore.runtimeconfig.dev.json
+/home/albaizzz/project/dotnet/PerformanceTest.netcore/bin/Debug/netcoreapp1.1/PerformanceTest.netcore.dll
+/home/albaizzz/project/dotnet/PerformanceTest.netcore/bin/Debug/netcoreapp1.1/PerformanceTest.netcore.pdb
+/home/albaizzz/project/dotnet/PerformanceTest.netcore/obj/Debug/netcoreapp1.1/PerformanceTest.netcore.AssemblyInfo.cs
+/home/albaizzz/project/dotnet/PerformanceTest.netcore/obj/Debug/netcoreapp1.1/PerformanceTest.netcore.dll
+/home/albaizzz/project/dotnet/PerformanceTest.netcore/obj/Debug/netcoreapp1.1/PerformanceTest.netcore.pdb
+/home/albaizzz/project/dotnet/performancetest/PerformanceTest.netcore/bin/Debug/netcoreapp1.1/PerformanceTest.netcore.deps.json
+/home/albaizzz/project/dotnet/performancetest/PerformanceTest.netcore/bin/Debug/netcoreapp1.1/PerformanceTest.netcore.runtimeconfig.json
+/home/albaizzz/project/dotnet/performancetest/PerformanceTest.netcore/bin/Debug/netcoreapp1.1/PerformanceTest.netcore.runtimeconfig.dev.json
+/home/albaizzz/project/dotnet/performancetest/PerformanceTest.netcore/obj/Debug/netcoreapp1.1/PerformanceTest.netcore.AssemblyInfo.cs
+/home/albaizzz/project/dotnet/performancetest/PerformanceTest.netcore/obj/Debug/netcoreapp1.1/PerformanceTest.netcore.dll
+/home/albaizzz/project/dotnet/performancetest/PerformanceTest.netcore/obj/Debug/netcoreapp1.1/PerformanceTest.netcore.pdb
+/home/albaizzz/project/dotnet/performancetest/PerformanceTest.netcore/bin/Debug/netcoreapp1.1/PerformanceTest.netcore.dll
+/home/albaizzz/project/dotnet/performancetest/PerformanceTest.netcore/bin/Debug/netcoreapp1.1/PerformanceTest.netcore.pdb

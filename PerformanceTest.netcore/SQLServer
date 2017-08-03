@@ -1,0 +1,12 @@
+use performanceTest
+create table Student
+(
+	studentid int IDENTITY(1,1) PRIMARY key,
+	FirstName varchar(50),
+	LastName VARCHAR(50),
+	Gender varchar(10),
+	Email varchar(100),
+	IPAddress varchar(50)
+)
+
+select * from student
